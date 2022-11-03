@@ -1,0 +1,1 @@
+To start the server, run the command "npm start" from the root folder in a terminal.
